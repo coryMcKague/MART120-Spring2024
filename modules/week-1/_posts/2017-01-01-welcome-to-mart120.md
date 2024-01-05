@@ -15,7 +15,6 @@ module: 1
 
 <!-- Tab content -->
 <div id="Overview" class="tabcontent" style="display:block">
-<p><a href="//www.youtube.com/embed/qXGofNmqSS0" data-lity>MART 120 Overview Video</a></p>
 <iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=353437ba-d49e-4f70-933e-b0ee015ae9df&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 <p>This course teaches coding in an introductory manner so that it can become a tool for art, creativity, and fun.</p>
 <p>The goal is to begin a journey in which you use the computer to expand your creative and technical possibilities.  I want your computer to be another tool in your creative palate. These tools will become an extension of you, something you think through, express yourself through, and can contribute to the world through.</p> <p> The course design offers you a deeper understanding of the essential possibilities of computation.</p>
