@@ -11,7 +11,7 @@ This course teaches you the foundations of writing code, so it becomes a tool fo
 The [**syllabus**]({{ site.baseurl }}/syllabus/ ) contains more information about the course, as well as student expectations.
 
 
-This course is maintained by [Michael Cassens]({{ site.baseurl }}/instructors/ ). 
+This course is maintained by [Cory McKague]({{ site.baseurl }}/instructors/ ). 
 
 ### Start the Course!
 
