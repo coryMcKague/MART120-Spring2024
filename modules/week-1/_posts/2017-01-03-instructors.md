@@ -9,7 +9,7 @@ jotted: false
 <div class="tab">
   <button class="tablinks active" onclick="openTab(event, 'Quick')">Quick Links</button>
   <button class="tablinks" onclick="openTab(event, 'Cory')">Cory McKague</button>
-  <button class="tablinks" onclick="openTab(event, 'Bio')">Bio</button>
+  <button class="tablinks" onclick="openTab(event, 'Brittany')">TA Brittany Weslund</button>
 </div>
 
 <div id="Quick" class="tabcontent" style="display:block">
@@ -18,7 +18,7 @@ jotted: false
 </div>
 
 <div id="Cory" class="tabcontent">
-
+<img src="..../img/coryHeadshot.png">
 <p>I am the professor delivering this course. I am also the instructor of record for this course. If you have any significant problems, administrative or technical, please come to me about them.</p>
 <p>I am excited to work with you and guide you through the journey of beginning to code!</p>
 <p>Please feel free to leverage my office hours, email, Zoom meetings to find me. I would love it if every one of you who is in Missoula could come by sometime to introduce yourself. For those of you who are distance learners, please consider sending me an email about yourself, along with something to help me get to know you better, like your own website, or links to your creative work.  You are also welcome to set up a Zoom meeting with me, and we can get to know one another better that way as well.</p>
