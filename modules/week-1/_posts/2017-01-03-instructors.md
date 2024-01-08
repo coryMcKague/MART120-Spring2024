@@ -17,7 +17,7 @@ jotted: false
 <p>What follows is a more detailed introduction to the people delivering this class to you this semester. We are a team and will be working together to provide this experience to you.</p>
 </div>
 
-<div id="Cory" class="tabcontent">
+<div id="Cory" class="tabcontent" style="floatleft">
 <img src="../imgs/coryHeadshot.jpg" width="300" height="300">
 <p>I am the professor delivering this course. I am also the instructor of record for this course. If you have any significant problems, administrative or technical, please come to me about them.</p>
 <p>I am excited to work with you and guide you through the journey of beginning to code!</p>
@@ -26,7 +26,7 @@ jotted: false
 </p>
 
 </div>
-
+<div>
 
 <p>Cory is currently at the University of Montana as an Assistant Professor of Game Design and Interactive Media in the School of Visual and Media Arts. In addition to continuing his other endeavors, Cory is teaching courses within the Game Design and Interactive Media concentration. These courses focus on preparing students to contribute to the gaming, technical and artistic industries.  Below is a video of some of our students' work.</p>
 <p><a href="//www.youtube.com/embed/AnjxNmQlLns" data-lity>Game Design and Interactive Media Video</a></p>
