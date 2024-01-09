@@ -1,7 +1,7 @@
 ---
 title: p5 Workspace
 permalink: /:title/
-jotted: true
+jotted: false
 ---
 
 # Blank p5 Workspace
