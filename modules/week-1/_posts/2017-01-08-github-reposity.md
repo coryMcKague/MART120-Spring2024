@@ -40,9 +40,9 @@ module: 1
 </div>
 -->
 <div id="Create" class="tabcontent">
-
+<p>
 <iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=34b5974a-a37d-45e9-960f-b0f2012c4a88&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
-
+</p>
 <p>You want to create your repository if you don't have one. </p>
 <ol>
 <li>Go to <a href="https://github.com" target="_blank">GitHub</a></li>
@@ -57,9 +57,9 @@ module: 1
 </div>
 
 <div id="GitHub" class="tabcontent">
-
+<p>
 <iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=da9ce98a-aef0-437b-9901-b0f2012c49e7&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
-
+</p>
 <p>GitHub Desktop is a graphical interface to make a copy of your repository on your computer.  Then, you can make changes to your work and then quickly post it back to your repository.  Or if you heaven forbid something happens to your computer [trust me, it happens], then you have a backup.</p>
 
 <ol>
