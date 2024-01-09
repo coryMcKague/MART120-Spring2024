@@ -28,6 +28,9 @@ module: 1
 </div>
 
 <div id="GUI" class="tabcontent">
+
+<iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=48a91b00-55e4-408b-8a84-b0f2012c5f20&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
+
 <p>We need to define what a directory is and what a file is.</p>
 
 <p>What is a directory?</p>
