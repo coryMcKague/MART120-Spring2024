@@ -16,31 +16,12 @@ module: 1
 
 <!--<p><a href="//www.youtube.com/embed/jmwObsKJ3A4" data-lity>Issues Forum and Notifications Video</a></p>-->
 
-<p>This class is heavily utilizing <a href="https://github.com" target="_blank">GitHub.com</a>. Not only is this service where you will host your git repo's and live websites, but this content site lives in GitHub, and there is a "resources" repo for this site that contains:</p>
-<ul>
-<li>code examples for this course</li>
-</ul>
-
+<p>This class is heavily utilizing <a href="https://github.com" target="_blank">GitHub.com</a>. This is where you will host all of your weekly assignments and posting your link on moodle. 
 </div>
 
 
-<div id="Watch" class="tabcontent">
 
-<p>By "watching" the course repository, you will get notifications about new issues as well as when new resources become available.</p>
-
-<p>To watch the course repo:</p>
-<ol>
-    <li>Navigate to <a href="https://github.com/Montana-Media-Arts/120_CreativeCoding1-Fall2023-Samples/" target="_blank">Examples Website</a>. The issues forum for this site also links to the "Issues-Forum" tab above in the navbar.</li>
-    <li>In the upper right-hand corner, you should select both "watching" and "star".</li>
-    <li>The star and watching allow GitHub to email you about notifications and issues in the course repo.</li>
-    <li>When you have problems, please post them in the issues area.</li>
-    <li>If you get an email about a new issue, try to help the person out.</li>
-</ol>
-
-<p><img src="../imgs/watch_star_CC.png" alt="Follow and Star Repositories on GitHub.com" /></p>
-
-</div>
-
+<!--
 <div id="Issues" class="tabcontent">
 <P>To create or respond to an issue, open the repo <a href="https://github.com/Montana-Media-Arts/120_CreativeCoding1-Fall2023-Samples/issues" target="_blank">"Issues Forum"</a>.</p>
 
@@ -57,10 +38,10 @@ module: 1
 <p>NOTE: You should not repeat a comment that has already been added by anyone from your class. However, if you would like to further a comment already there, type in "@mention" the classmate/user and continue their discussion, which works well.</p>
 
 </div>
-
+-->
 <div id="Create" class="tabcontent">
 
-<p><a href="//www.youtube.com/embed/FV4j1YkNSlo" data-lity>Create Repository Video</a></p>
+<iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=34b5974a-a37d-45e9-960f-b0f2012c4a88&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 <p>You want to create your repository if you don't have one. </p>
 <ol>
@@ -69,15 +50,15 @@ module: 1
 <li>View your repositories.</li>
 </ol>
 
-<p>This might take a few seconds to load:</p>
 
+<!--
 <iframe src="https://umontanamediaarts.com/MART120/wp-admin/admin-ajax.php?action=h5p_embed&id=6" width="936" height="974" frameborder="0" allowfullscreen="allowfullscreen" title="GitHub.com - Create a New Repository"></iframe><script src="https://umontanamediaarts.com/MART120/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
-
+-->
 </div>
 
 <div id="GitHub" class="tabcontent">
 
-<p><a href="//www.youtube.com/embed/L0TKgJRdY0s" data-lity>GitHub Desktop Video</a></p>
+<iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=da9ce98a-aef0-437b-9901-b0f2012c49e7&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 <p>GitHub Desktop is a graphical interface to make a copy of your repository on your computer.  Then, you can make changes to your work and then quickly post it back to your repository.  Or if you heaven forbid something happens to your computer [trust me, it happens], then you have a backup.</p>
 
@@ -102,8 +83,6 @@ Install for PC<br>
 <li>Remember to pull first <b>always</b> and then push.</li>
 </ol>
 
-Need more help?  Watch this video and it will walk you through how to use GitHub Desktop.  It will make things much easier.
 
-<p><a href="//www.youtube.com/embed/L0TKgJRdY0s" data-lity>GitHub Desktop Video</a></p>
 
 </div>
