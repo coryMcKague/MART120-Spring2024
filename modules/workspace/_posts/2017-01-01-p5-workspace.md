@@ -1,7 +1,8 @@
+<!-->
 ---
 title: p5 Workspace
-permalink: /:title/
-jotted: false
+permalink: /:title/ 
+jotted: true
 ---
 
 # Blank p5 Workspace

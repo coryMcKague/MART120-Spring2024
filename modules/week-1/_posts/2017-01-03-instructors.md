@@ -28,7 +28,3 @@ jotted: false
 <p><a href="//www.youtube.com/embed/AnjxNmQlLns" data-lity>Game Design and Interactive Media Video</a></p>
 <p>Cory is an artist, creative technologist, educator, game designer who loves being outside with his family as well as biking, snowboarding, hiking, rock climbing, and just being in nature.</p>
 </div>
-<div>
-
-
-</div>
