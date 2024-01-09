@@ -14,9 +14,10 @@ module: 1
 
 <div id="Overview" class="tabcontent" style="display:block">
 
-<!--<p><a href="//www.youtube.com/embed/jmwObsKJ3A4" data-lity>Issues Forum and Notifications Video</a></p>-->
+<!-- <p><a href="//www.youtube.com/embed/jmwObsKJ3A4" data-lity>Issues Forum and Notifications Video</a></p> -->
 
 <p>This class is heavily utilizing <a href="https://github.com" target="_blank">GitHub.com</a>. This is where you will host all of your weekly assignments and posting your link on moodle. 
+</p>
 </div>
 
 
