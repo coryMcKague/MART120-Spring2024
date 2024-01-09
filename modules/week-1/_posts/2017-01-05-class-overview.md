@@ -63,9 +63,9 @@ There also will many code examples. Also, there will always be download buttons 
     
     </ul>
 </li>
-<li>Get help from <a href="https://montana-media-arts.github.io/MART120-Fall2023/instructors/#instructor-prof-michael-cassens">Michael Cassens</a> -- use me! That's why I am here!
+<li>Get help from <a href="mailto:cory.mckague@umt.edu?subject=120%20Question">Cory McKague</a> -- use me! That's why I am here!
     <ul>
-    <li>If you have a problem, please contact me.  I am in my office a lot beyond my office hours, and I can work through Skype, TeamViewer, and Zoom.  Let me know!
+    <li>If you have a problem, please contact me.  I am in my office a lot beyond my office hours, and I can work through Zoom, email and discord.  Let me know!
     </li>
     <li>One way to get a hold of me is to swing by my weekly office hours. These are posted (and updated) under my <a href="https://montana-media-arts.github.io/MART120-Spring2024/instructors/#office-hours">office hours section</a>. Office hours are another way via email, text, Zoom, or calls.
     </li>
