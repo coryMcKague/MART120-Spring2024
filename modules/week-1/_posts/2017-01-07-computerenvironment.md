@@ -69,7 +69,7 @@ module: 1
 
 <div id="CLI" class="tabcontent">
 
-<p><a href="//www.youtube.com/embed/R_wj7DrD_g0" data-lity>Command-line Interface Video</a></p>
+<iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=debec122-68ba-4035-8e14-b0f2012c4a19&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 <p>One of the most basic ways of working with your computer is through a <a href="https://en.wikipedia.org/wiki/Command-line_interface" target="_new">command-line interface (CLI)</a>.</p>
 
 <p><img src="../imgs/Screen1.png" alt="example image of terminal.app" /></p>
