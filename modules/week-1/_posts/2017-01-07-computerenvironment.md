@@ -16,7 +16,7 @@ module: 1
 </div>
 
 <div id="Overview" class="tabcontent" style="display:block">
-<p><a href="//www.youtube.com/embed/Jian1ilJwBs" data-lity>Computer Environment Video</a></p>
+<p><iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=3e360a60-ec35-4b4c-9c8c-b0f2012c4a42&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe></p>
 <p>As a creative technologist and developer, you will need to take control of your computer. You should start to consider your computer as an instrument or an innovative tool that serves as an extension of yourself.</p>
 <p>To be effective, you need to be comfortable with your computer and <b>know</b> your computer.</p>
 <p>There are two different ways to find things on your computer.</p>
