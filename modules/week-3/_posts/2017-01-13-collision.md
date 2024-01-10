@@ -6,7 +6,7 @@ jotted: true
 
 # Collision
 
-<p><a href="//www.youtube.com/embed/OJh5FM1zN84" data-lity>Scratch Collision Video</a></p>
+<iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=0724beb2-9401-41be-b469-b0f301568e85&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 All good games must have collision involved. Otherwise, it can be rather dull.  Think about Pacman, where Pacman doesn't eat the pellets, and the ghosts never kill Pacman.  It might be a little boring. We are going to learn how collision works in Scratch.
 
