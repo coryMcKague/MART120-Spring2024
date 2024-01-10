@@ -14,7 +14,7 @@ module: 3
 <!-- Tab content -->
 <div id="Overview" class="tabcontent" style="display:block">
 
-<p>First I would like to address that Grit doesn't paint the complete picture and I have some issues with the use and justification in or culture. However this term Grit, as Angela Duckworth adresses, grants us another tool to anaylze success. A person with true grit has passion and perseverance that will help them achieve goals are set and followed through. "Intelligence" (and I use the term loosely) and "talent" are not always the advantage.  A person who works really hard to follow through on commitments has true grit. </p>
+<p>First I would like to address that Grit doesn't paint the complete picture and I have some issues with the over-justification of it. However this term Grit, as Angela Duckworth adresses, grants us another tool to anaylze success. A person with true grit has passion and perseverance that will help them achieve goals are set and followed through. "Intelligence" (and I use the term loosely) and "talent" are not always the advantage.  A person who works really hard to follow through on commitments has true grit. </p>
 
 </div>
 
