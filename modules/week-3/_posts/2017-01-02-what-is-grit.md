@@ -14,7 +14,7 @@ module: 3
 <!-- Tab content -->
 <div id="Overview" class="tabcontent" style="display:block">
 
-<p><a href="//www.youtube.com/embed/sbDttN-_OLk" data-lity>Grit Overview Video</a></p>
+<p>First I would like to address that Grit doesn't paint the complete picture and I have some issues with the use and justification in or culture. However this term Grit, as Angela Duckworth adresses, grants us another tool to anaylze success. A person with true grit has passion and perseverance that will help them achieve goals are set and followed through. "Intelligence" (and I use the term loosely) and "talent" are not always the advantage.  A person who works really hard to follow through on commitments has true grit. </p>
 
 </div>
 
@@ -28,7 +28,7 @@ module: 3
 </div>
 
 <div id="ToDo" class="tabcontent">
-<p>Now that you have watched her talk take the Grit test and see where you rank.  Keep track as you will discuss in the forum with your colleagues.</p>
+<p>Now that you have watched her talk take the Grit test and see where you rank.  Keep track as you will discuss in the discord forum with your colleagues this week.</p>
 
 <p><a href="https://angeladuckworth.com/grit-scale/" target="_blank">Grit Test</a></p>
 
