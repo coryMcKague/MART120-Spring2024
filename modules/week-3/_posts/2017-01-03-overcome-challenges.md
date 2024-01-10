@@ -15,7 +15,6 @@ module: 3
 <!-- Tab content -->
 <div id="Overview" class="tabcontent" style="display:block">
 
-<p><a href="//www.youtube.com/embed/Ll4XTxNPUDE" data-lity>Challenge Video</a></p>
 
 <p>Part of attending higher education is being able to overcome challenges.  If you were like me growing up, there were some difficulties you overcame to get you to this point in your life.  How have those challenges shaped who you are today?  What did you have to do to overcome them?  Are you stronger because of it?  You are here because you were able to get through those issues.  No one else got you here, but yourself, and you should be proud of that.</p>
 
