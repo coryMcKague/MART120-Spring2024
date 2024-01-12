@@ -45,8 +45,9 @@ There also will many code examples. Also, there will always be download buttons 
 <p>Additionally, we will have topics of discussion each week that will cover a variety of different subjects.</p>
 </div>
 <div id="Help" class="tabcontent">
-
+<!--
 <p><a href="//www.youtube.com/embed/YMNx52LmLNA" data-lity>Getting Help Video</a></p>
+-->
 <p>When you have problems in this course, you have some solutions to assist you in solving them. The following list is the order I would suggest you follow for problem-solving.</p>
 <ol>
 <li>
