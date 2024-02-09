@@ -14,8 +14,7 @@ jotted: true
 
 <!-- Tab content -->
 <div id="Overview" class="tabcontent" style="display:block">
-<!-- video -->
-<p><a href="//www.youtube.com/embed/LOtPdX1t2ro" data-lity>Overview Video</a></p>
+
 
 <p>I always find it useful to define what it is we are doing before we use it.</p>
 </div>
