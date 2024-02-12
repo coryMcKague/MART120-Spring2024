@@ -16,7 +16,7 @@ jotted: true
 <!-- Tab content -->
 <div id="Overview" class="tabcontent" style="display:block">
 
-<p><a href="//www.youtube.com/embed/LJ0Ldc_2B8M" data-lity>HTML Forms Video</a></p>
+<iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=9d805f27-2774-4acc-a5a7-b11401447bce&autoplay=false&offerviewer=false&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 <p>What are HTML forms?  If you have ever purchased something online or filled out an application online or signed up for an email, your social media account, or more, you have filled out a form.  Forms are just a way for us to gather data from the end-user.  Keep in mind there are some principles to which we should adhere.</p>
 
@@ -52,12 +52,4 @@ jotted: true
 Notice, we are using different attributes now.  We have the **action**, **type** and **id**.  These attributes just let the browser know where the form is going to go after the button is clicked -- **action** -- and how the form data will be stored when it goes to the other page **type="POST"** For the textboxes, the **type** is text and the **id** gives us a way to access the information.  We will go deeper into this when we get to JavaScript.  Finally, the button type **submit** just means the form will perform its action.
 </div>
 
-</div>
-<div id="ToDo" class="tabcontent">
-<p class="codepen" data-height="600" data-default-tab="html,result" data-slug-hash="rNwRQrY" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/rNwRQrY">
-  HTML Forms</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 </div>
