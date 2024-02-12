@@ -17,5 +17,5 @@ module: 6
 
 <p>Before starting make sure you have: 1. Github Desktop linked to your online repository through cloning. Look at Week 1 if you missed this.</p>
 
-<p>You will also need visual studio code: [Visual Studio Code](https://code.visualstudio.com/)</p>
+<p>You will also need visual studio code: [Visual Studio Code](https://code.visualstudio.com)</p>
 </div>
