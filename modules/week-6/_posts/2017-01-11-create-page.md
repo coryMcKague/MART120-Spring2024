@@ -6,8 +6,8 @@ jotted: true
 
 # Create a page
 <!-- video -->
-<iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=073d0289-3e35-4e9a-855f-b1140144d5c6&autoplay=false&offerviewer=false&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
+<iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=98ff25cb-679d-4467-8a9f-b11401451fba&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 
 

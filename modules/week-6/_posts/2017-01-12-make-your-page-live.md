@@ -7,8 +7,8 @@ jotted: true
 # Make your page live
 <!-- video -->
 
+<iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=073d0289-3e35-4e9a-855f-b1140144d5c6&autoplay=false&offerviewer=false&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
-<iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=98ff25cb-679d-4467-8a9f-b11401451fba&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 
 
@@ -22,8 +22,14 @@ No, let us make our page live!
 5. press save
 6. wait a few minutes and refresh your browser
 7. Press your live link
-<img src="../imgs/live.png" width="400">
+<br>
+<img src="../imgs/live.png" width="600">
+<br>
+
 
 8. add your Week6 folder to your url
-<img src="../imgs/live2.png" width="400">
+
+<img src="../imgs/live2.png" width="600">
+<br>
+
 Next up, we are going to take a look at HTML forms.  What are those?  I bet you have used these a lot!
