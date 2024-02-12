@@ -1,12 +1,15 @@
 ---
-title: Create a live page
+title: Create a page
 module: 6
 jotted: true
 ---
 
-# Create a live page
+# Create a page
 <!-- video -->
 <iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=073d0289-3e35-4e9a-855f-b1140144d5c6&autoplay=false&offerviewer=false&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
+
+
+
 
 I am so excited that you made it this far!  You are learning the basics of HTML well. One crucial step is to learn how to create and save it to view the page in a browser.
 
