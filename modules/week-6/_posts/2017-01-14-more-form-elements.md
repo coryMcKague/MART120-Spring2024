@@ -16,8 +16,7 @@ jotted: true
 
 <!-- Tab content -->
 <div id="Dropdown" class="tabcontent" style="display:block">
-
-<p><a href="//www.youtube.com/embed/rJJ-rnX3SPM" data-lity>Drop Downlist Video</a></p>
+<iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=58df56c3-ec9b-441f-9af3-b11401447c2a&autoplay=false&offerviewer=false&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 <!-- dropdowns -->
 
 <p>One of the most common form elements is the drop-down list.  It looks something like this.</p>
@@ -42,7 +41,6 @@ These allow us to restrict what the user can choose and helps us make sure we ge
 
 <!-- video -->
 
-<p><a href="//www.youtube.com/embed/Mzx_lShObmc" data-lity>Radio Button Video</a></p>
 
 <!-- radio -->
 <b>What other items can you find in forms?  I spoke of radio buttons and checkboxes in an earlier section.  How would you implement a radio button list?</b>
@@ -63,7 +61,7 @@ These allow us to restrict what the user can choose and helps us make sure we ge
 <div id="Checkbox" class="tabcontent">
 
 <!-- video -->
-<iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=58df56c3-ec9b-441f-9af3-b11401447c2a&autoplay=false&offerviewer=false&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
+
 
 <!-- checkboxes -->
 <p>Finally, let's look at checkboxes and the role they play in forms.  They allow us to select multiple items in a list.  We see these most often when a form asks us what our interests are.  It may look something like this.</p>
