@@ -6,9 +6,9 @@ module: 6
 # Before Starting <br />
 
 <div class="tab">
-  <button class="tablinks active" onclick="openTab(event, 'BeforeStarting')">Overview</button>
+  <button class="tablinks active" onclick="openTab(event, 'BeforeStarting')">Before Starting</button>
  
-</div>
+
 
 <!-- Tab content -->
 <div id="BeforeStarting" class="tabcontent" style="display:block">
