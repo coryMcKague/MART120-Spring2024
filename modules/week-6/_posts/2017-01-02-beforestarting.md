@@ -9,7 +9,7 @@ module: 6
   <button class="tablinks active" onclick="openTab(event, 'BeforeStarting')">Before Starting</button>
  
 
-
+</div>
 <!-- Tab content -->
 <div id="BeforeStarting" class="tabcontent" style="display:block">
 <!-- video -->
