@@ -13,13 +13,13 @@ jotted: true
     <button class="tablinks" onclick="openTab(event, 'Stylesheet')">External Stylesheet</button>
     <button class="tablinks" onclick="openTab(event, 'Page')">HTML Page</button>
     <button class="tablinks" onclick="openTab(event, 'Order')">Ordering of Styles</button>
-    <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
+   
 </div>
 
 <!-- Tab content -->
 <div id="Overview" class="tabcontent" style="display:block">
 
-<p><a href="//www.youtube.com/embed/SgCWkF4--t0" data-lity>External CSS Video</a></p>
+<p><iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=cd57bb8c-11b5-4c57-bb2c-b11a01258c49&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe></p>
 
 <p>The last way in which we can apply a style is through an <b>external</b> style sheet.</p>
 
@@ -90,11 +90,3 @@ span{
 
 </div>
 
-<div id="ToDo" class="tabcontent">
-<p class="codepen" data-height="600" data-default-tab="html,result" data-slug-hash="RwgmoPR" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/RwgmoPR">
-  External Style</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-</div>

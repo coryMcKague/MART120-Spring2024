@@ -15,7 +15,7 @@ jotted: false
 <!-- Tab content -->
 <div id="Overview" class="tabcontent" style="display:block">
 <!-- video -->
-<p><a href="//www.youtube.com/embed/9riAPdZfid4" data-lity>Basic Structure Video</a></p>
+<p><iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=ca91cbe4-5bfd-46a2-ad2a-b11a01257e4b&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe></p>
 
 <p>In its most basic form, CSS looks like this.</p>
 

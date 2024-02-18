@@ -6,7 +6,7 @@ jotted: false
 
 # What is CSS?
 
-<p><a href="//www.youtube.com/embed/hvp9cP_vnk4" data-lity>What is CSS Video</a></p>
+
 
 CSS or Cascading Style Sheets are files that work with HTML to make our pages look a little more professional.  Did you add a background color to your website?  Did you use `bgColor='blue'` or something like that?
 

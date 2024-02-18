@@ -16,7 +16,7 @@ jotted: true
 <!-- Tab content -->
 <div id="Overview" class="tabcontent" style="display:block">
 
-<p><a href="//www.youtube.com/embed/qu0rslp1jho" data-lity> Using Other Stylesheets Video</a></p>
+<p><iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=1268d892-bb3d-4843-8f99-b11a01257ea1&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe></p>
 
 <p>There are some popular stylesheets out there. One of the most popular is Bootstrap.  To use it, we have a couple of options. We have two options.</p>
 
@@ -62,7 +62,7 @@ jotted: true
 </div>
 
 <div id="Local" class="tabcontent">
-
+<p><iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=3b06117c-2872-4382-ac51-b11a0125a552&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe></p>
 <p>In the case of Bootstrap, you first go to:</p>
 
 <ol>
@@ -108,9 +108,9 @@ jotted: true
 
 </div>
 <div id="ToDo" class="tabcontent">
-<p class="codepen" data-height="600" data-default-tab="html,result" data-slug-hash="mdwYOPO" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/mdwYOPO">
-  Bootstrap Example</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+<p class="codepen" data-height="600" data-default-tab="html,result" data-slug-hash="mdwYOPO" data-editable="true" data-user="coryMcKague" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/coryMcKague/pen/WNmmEmw">
+  Bootstrap Example</a> by Cory McKague (<a href="https://codepen.io/coryMcKague">@coryMcKague</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
