@@ -16,7 +16,7 @@ jotted: true
 <!-- Tab content -->
 <div id="Overview" class="tabcontent" style="display:block">
 
-<p><a href="//www.youtube.com/embed/nUNz4RvgZdo" data-lity>Form Data Retrieval Video</a></p>
+<iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=ce885e6f-e1e4-4de9-827c-b11f014a4322&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 Keep in mind that although it's handy to print information to the page, it is beneficial to get information from a form. I imagine most of you have filled out web forms before. They are super fun, I know. However, most web forms use JavaScript in one way or another. So, we are going that.
 
@@ -154,9 +154,9 @@ Where do we go from here? Let's create a small addition game to learn about **if
 </div>
 
 <div id="ToDo" class="tabcontent">
-<p class="codepen" data-height="600" data-default-tab="html,result" data-slug-hash="XWaXKag" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/XWaXKag">
-  JS Form Retrieval</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+<p class="codepen" data-height="600" data-default-tab="html,result" data-slug-hash="XWaXKag" data-editable="true" data-user="coryMcKague" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/coryMcKague/pen/VwRJbrG">
+  JS Form Retrieval</a> by coryMcKague (<a href="https://codepen.io/coryMcKague">@coryMcKague</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>

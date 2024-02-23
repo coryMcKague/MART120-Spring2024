@@ -20,7 +20,7 @@ jotted: true
 
 <div class="tabhtml" markdown="1">
 
-<p><a href="//www.youtube.com/embed/Lxocm28nvwo" data-lity>If statements Video</a></p>
+<iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=7d23be2f-409b-4ac6-bb8e-b11f014a51b2&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 Let's start with a form that is similar to what we had before. However, this time, we have two functions. **gasp**.
 
