@@ -17,7 +17,7 @@ jotted: false
 <!-- Tab content -->
 <div id="Overview" class="tabcontent" style="display:block">
 
-<p><a href="//www.youtube.com/embed/BN25BnXgYNo" data-lity>Functions Video</a></p>
+<iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e0f3e797-da62-41ae-b6a2-b11f014a3304&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 <p>If you recall when we changed the text in the span tag, we had to put the JavaScript script at the bottom so that it wouldn't give us an error.</p>
 
@@ -129,9 +129,9 @@ What about getting information from a form or something like that? Move on, and 
 </div>
 </div>
 <div id="ToDo" class="tabcontent">
-<p class="codepen" data-height="600" data-default-tab="html,result" data-slug-hash="eYEJzRv" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/eYEJzRv">
-  JS - Functions Parameters</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+<p class="codepen" data-height="600" data-default-tab="html,result" data-slug-hash="eYEJzRv" data-editable="true" data-user="coryMcKague" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/coryMcKague/pen/jOJjmWO">
+  JS - Functions Parameters</a> by Cory (<a href="https://codepen.io/coryMcKague/">@coryMcKague</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>

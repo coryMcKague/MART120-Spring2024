@@ -17,7 +17,7 @@ jotted: true
 <!-- Tab content -->
 <div id="Overview" class="tabcontent" style="display:block">
 <!-- video -->
-<p><a href="//www.youtube.com/embed/Gf_fmLtMiI4" data-lity>JavaScript Basics Video</a></p>
+<iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e499c28a-0d82-4700-a5b1-b11f014a3347&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 <p>What is JavaScript? JavaScript is the client-side programming language that allows us to provide actual functionality to our HTML sites.</p>
 

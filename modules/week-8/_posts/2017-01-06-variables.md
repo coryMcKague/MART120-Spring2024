@@ -15,7 +15,7 @@ jotted: true
 </div>
 <!-- Tab content -->
 <div id="Overview" class="tabcontent" style="display:block">
-<p><a href="//www.youtube.com/embed/9M4Q-4KxU34" data-lity>Variables Video</a></p>
+<iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=76ef587d-b390-4c56-9016-b11f014a32d9&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 <p>So, you have been working with variables in all the other languages with which we have worked. Hopefully, these won't feel scary or foreign to you now.</p>
 </div>
@@ -74,9 +74,9 @@ jotted: true
 </div>
 
 <div id="ToDo" class="tabcontent">
-<p class="codepen" data-height="600" data-default-tab="html,result" data-slug-hash="jOLWrmb" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/jOLWrmb">
-  JS - Variables</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+<p class="codepen" data-height="600" data-default-tab="html,result" data-slug-hash="jOLWrmb" data-editable="true" data-user="coryMcKague" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/coryMcKague/pen/GRebWzG">
+  JS - Variables</a> by Cory (<a href="https://codepen.io/coryMcKague">@coryMcKague</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
