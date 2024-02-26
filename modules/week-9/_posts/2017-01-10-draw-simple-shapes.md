@@ -172,7 +172,7 @@ This example places the first point on the line at x-coordinate 30 and y-coordin
 <div id="Video" class="tabcontent">
 <div class="tabhtml" markdown="1">
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/qTZAw_TFNkY" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=49914f1e-2a29-47d0-8b4b-b122011d901c&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe></iframe></div>
 
 </div>
 </div>

@@ -57,13 +57,7 @@ You see that the text is much larger and readable, well, at least for me since I
 </div>
 </div>
 
-<div id="Video" class="tabcontent">
-<div class="tabhtml" markdown="1">
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/eUegipUHNlo" frameborder="0" allowfullscreen></iframe></div>
-
-</div>
-</div>
 
 <div id="ToDo" class="tabcontent">
 <div class="tabhtml" markdown="1">
