@@ -234,7 +234,7 @@ Cool right?  However, what about the other side?  Do you think you can do it?
 
 <div class="tabhtml" markdown="1">
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/eRzFSvDH4nQ" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=d74de8fe-ec09-4e4e-8ad6-b124017bcd66&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe></div>
 </div>
 </div>
 <div id="ToDo" class="tabcontent">

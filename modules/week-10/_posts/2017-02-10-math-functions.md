@@ -202,13 +202,13 @@ With that, let's talk about homework for this week.
 
 <div class="tabhtml" markdown="1">
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rG3Ad5Lp7as" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=91849852-c0dd-42f8-8cae-b124017be411&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe></div>
 </div>
 </div>
 <div id="ToDo" class="tabcontent">
 <p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="js,result" data-slug-hash="LYjzzeN" data-editable="true" data-user="coryMcKague" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/coryMcKague/pen/KKYKwyQ">
-  p5.js Math functions</a> by Cory (<a href="https://codepen.io/coryMcKague/pen/KKYKwyQ">@retrog4m3r</a>)
+  p5.js Math functions</a> by Cory (<a href="https://codepen.io/coryMcKague/pen/KKYKwyQ">@coryMcKague</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
