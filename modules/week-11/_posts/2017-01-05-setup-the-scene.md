@@ -10,7 +10,6 @@ jotted: false
     <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
     <button class="tablinks" onclick="openTab(event, 'Setup')">Setup</button>
     <button class="tablinks" onclick="openTab(event, 'Movement')">Movement</button>
-     <button class="tablinks" onclick="openTab(event, 'Video')">Video</button>
     <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
 
 </div>
@@ -100,20 +99,14 @@ Fun! Where do we go from here? Let's talk about the conditions.  What are those?
 </div>
 </div>
 
-<div id="Video" class="tabcontent">
 
-<div class="tabhtml" markdown="1">
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nTtrvVHO3U0" frameborder="0" allowfullscreen></iframe></div>
-</div>
-</div>
 
 <div id="ToDo" class="tabcontent">
 <div class="tabhtml" markdown="1">
 
-<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="js,result" data-slug-hash="JjymQGE" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/JjymQGE">
-  p5.js Movement</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="js,result" data-slug-hash="JjymQGE" data-editable="true" data-user="coryMcKague" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/coryMcKague/pen/oNONExx">
+  p5.js Movement</a> by Cory (<a href="https://codepen.io/coryMcKague">@coryMcKague</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
