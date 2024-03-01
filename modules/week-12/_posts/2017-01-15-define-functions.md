@@ -403,14 +403,14 @@ Finally, let's add **ConcentricCircle** function into this.
 
 <div class="tabhtml" markdown="1">
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VSP2JulEmxM" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=7207e297-a12b-47fa-97d5-b12601552fb4&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe></div>
 </div>
 </div>
 <div id="ToDo" class="tabcontent" >
 <div class="tabhtml" markdown="1">
-<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="js,result" data-slug-hash="qBXJzOR" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/qBXJzOR">
-  p5.js Function in a Function</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="js,result" data-slug-hash="qBXJzOR" data-editable="true" data-user="coryMcKague" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/coryMcKague/pen/jOREbjr">
+  p5.js Function in a Function</a> by cory McKague (<a href="https://codepen.io/coryMcKague/pen/jOREbjr">@coryMcKague</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
