@@ -4,11 +4,10 @@ module: 15
 jotted: false
 ---
 
-# Homework
+# Extra Credit
 
-In this homework, you are to use the existing project from the previous week and extend it one more time.  Create a class for a simple shape.  Using the class, create at least 3 objects (instead of just two) and display them - look back at item 4 on the last homework.
+In this assignment, you are to use the existing project from the previous week and extend it one more time.  Create a class for a simple shape.  Using the class, create at least 3 objects (instead of just two) and display them - look back at item 4 on the last homework.
 
-<a href="https://youtu.be/vQoe4YeI-7I" data-lity>Homework 14 Walkthrough</a>
 
 <a href="https://github.com/Montana-Media-Arts/120_CreativeCoding1-Spring2022-Samples/tree/main/Homework%2014" target="_blank">Homework 14 Example</a>
 
@@ -20,10 +19,9 @@ In this homework, you are to use the existing project from the previous week and
 3. Pass the x, y, the size (height, width or diameter), and the color into the constructor.
 4. Create at least three different objects of different locations, sizes and colors.
 5. Call the display function in the draw of your main sketch.
-6. Take the <a href="https://kahoot.it/challenge/03420881?challenge-id=84387498-97d5-4d82-ae4e-eabb1c94cf58_1649955190777" target="_blank">Kahoot Quiz</a>
 7. Upload your files to GitHub and turn your link into Moodle.
 
-Extra Credit
+Want more?
 
 1. Store the objects in an array and display them.
 2. Check for collisions on the objects in the array.
