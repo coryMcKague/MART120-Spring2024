@@ -7,7 +7,6 @@ jotted: false
 <div class="tab">
     <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
     <button class="tablinks" onclick="openTab(event, 'Example')">Example</button>
-      <button class="tablinks" onclick="openTab(event, 'Video')">Video</button>
     <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
     
 </div>
@@ -72,17 +71,11 @@ The draw function is built-in to p5.js.  All programming languages have built-in
 
 </div>
 </div>
-<div id="Video" class="tabcontent">
 
-<div class="tabhtml" markdown="1">
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-JoLD2QXWeU" frameborder="0" allowfullscreen></iframe></div>
-</div>
-</div>
 <div id="ToDo" class="tabcontent" >
-<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="js,result" data-slug-hash="LYjgovb" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/LYjgovb">
-  Intro to Functions - p5.js</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="js,result" data-slug-hash="LYjgovb" data-editable="true" data-user="coryMcKague" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/coryMcKague/pen/RwONWLY">
+  Intro to Functions - p5.js</a> by Cory McKague (<a href="https://codepen.io/coryMcKague/pen/RwONWLY">@rcoryMcKague</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
