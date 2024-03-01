@@ -1,6 +1,6 @@
 ---
 title: Homework
-module: 15
+module: 14
 jotted: false
 ---
 
@@ -9,7 +9,6 @@ jotted: false
 In this assignment, you are to use the existing project from the previous week and extend it one more time.  Create a class for a simple shape.  Using the class, create at least 3 objects (instead of just two) and display them - look back at item 4 on the last homework.
 
 
-<a href="https://github.com/Montana-Media-Arts/120_CreativeCoding1-Spring2022-Samples/tree/main/Homework%2014" target="_blank">Homework 14 Example</a>
 
 ## Specifications
 
