@@ -270,7 +270,7 @@ Now, you see the ellipse move with the mouse.  Pretty cool, right?
 
 <div class="tabhtml" markdown="1">
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dXzwA0PYSD4" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=4c0c5482-831b-45e5-9981-b12601427575&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe></div>
 </div>
 </div>
 <div id="ToDo" class="tabcontent">
