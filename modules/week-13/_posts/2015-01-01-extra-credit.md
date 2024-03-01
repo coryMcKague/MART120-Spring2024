@@ -1,14 +1,14 @@
 ---
-title: Homework
-module: 14
+title: Extra Credit
+module: 13
 jotted: false
 ---
 
-# Homework
+# Extra Credit
 
 In this homework, you are going to use your project from last time to implement and use arrays.
 
-<a href="//youtu.be/0ChP01lq20M" data-lity>Homework 14 Walkthrough</a>
+
 
 <a href="https://github.com/Montana-Media-Arts/120_CreativeCoding1-Fall2023-Samples/tree/main/Homework%2015" target="_blank">Homework Example</a>
 
@@ -21,10 +21,10 @@ In this homework, you are going to use your project from last time to implement 
 5. Create an exit
 6. If the player gets to the exit, display a message on the screen that says you win.
 7. Ignore all collisions.
-8. Take the <a href="https://kahoot.it/challenge/08272077?challenge-id=84387498-97d5-4d82-ae4e-eabb1c94cf58_1700805297651" target="_blank">Kahoot Quiz</a> and screenshot your results.
-9. Upload everything to GitHub and turn in your link.
+screenshot your results.
+8. Upload everything to GitHub and turn in your link.
 
-Looking for more to do? (extra credit)
+Looking for more to do? 
 
 1. Keep adding objects to the screen whenever the mouse is clicked.
 2. Move the objects that are added whenever the mouse is clicked.
