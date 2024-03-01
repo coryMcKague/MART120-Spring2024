@@ -6,11 +6,11 @@ jotted: false
 
 # Extra Credit
 
-In this homework, you are going to use your project from last time to implement and use arrays.
+In this extracredit, you are going to use your project from last time to implement and use arrays.
 
 
 
-<a href="https://github.com/Montana-Media-Arts/120_CreativeCoding1-Fall2023-Samples/tree/main/Homework%2015" target="_blank">Homework Example</a>
+
 
 ## Specifications
 
