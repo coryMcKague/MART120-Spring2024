@@ -451,7 +451,7 @@ Now, did you see a change?  What happened?  Did it get to the third else if? How
 
 <div class="tabhtml" markdown="1">
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8z2oN6Wj9BY" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=9c50a732-d4e3-4d42-b762-b12601105f35&autoplay=false&offerviewer=false&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe></div>
 </div>
 </div>
 <div id="ToDo" class="tabcontent">

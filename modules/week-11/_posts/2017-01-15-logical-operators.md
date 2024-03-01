@@ -311,15 +311,15 @@ All we changed in this scenario is the last else if and as long x,y, or diameter
 
 <div class="tabhtml" markdown="1">
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bEsZJXSfq7U" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe src="https://umontana.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e800977f-9e1b-4abd-a6bf-b12601105f66&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe></div>
 </div>
 </div>
 <div id="ToDo" class="tabcontent">
 <div class="tabhtml" markdown="1">
 
-<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="js,result" data-slug-hash="vYJVqKp" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/vYJVqKp">
-  p5.js Logical Operators</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="js,result" data-slug-hash="vYJVqKp" data-editable="true" data-user="coryMcKague" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/coryMcKague/pen/rNbaNZm">
+  p5.js Logical Operators</a> by Cory McKague (<a href="https://codepen.io/coryMcKague">@cory</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
